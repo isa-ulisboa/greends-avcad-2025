@@ -1,0 +1,57 @@
+﻿Mekaela Stevenson 
+
+EDUCATION AND TRAINING 
+Master of Data Science – specialising in Agricultural and Forestry data
+Instituto Superior de Agronomia - Universidade de Lisboa: Lisbon, Portugal 
+06/09/2024 – Present
+- Coursework so far: Python (100%); Data Management Systems (90%); Fundamentals of Agro-Environmental Data Science (90%); Remote Sensing (85%); Forest Ecosystem Functioning (95%)
+Website: https://www.isa.ulisboa.pt/ensino/mestrados/mcdaafa/lp/en 
+
+Bachelor of Science in Environmental Science and Environmental Restoration 
+Murdoch University: Perth, Australia 
+ 01/02/2010 – 01/02/2013
+Website: https://www.murdoch.edu.au 
+
+Software Development course 
+_nology: Melbourne, Australia
+01/05/2021 – 01/08/2021
+Website: https://au.nology.io 
+
+
+WORK EXPERIENCE 
+Salesforce Developer 
+Lendi: Australia 
+16/08/2021 – 16/02/2023
+- Design, develop and deploy new features in an agile manner (scrum), as prioritised by the product team. - Code reviewing other team members’ work
+- Assisted in the delivery of a greenfield salesforce implementation, based on an existing legacy implementation, following enterprise architecture patterns. 
+Data Integration and Analysis
+- Integrated microservices using event-driven architecture (Kafka) to streamline data flows.
+- Migrated data from legacy to greenfield project, including cleaning large datasets
+
+
+
+Business analyst 
+Bonterra: Australia 
+01/08/2019 – 01/05/2021
+- Engaging with multiple stakeholders to review and analyse the stakeholders' business intentions, services, processes and information needs.
+- Extensive interaction with a variety of clients while assisting clients with change management, including capturing 'as is' and 'to be' processes and generating process flows for these.
+- Running product related webinars 
+Data related:
+- Assisted clients with data-related queries and provided insights to support change management.
+
+ICT business analyst 
+Services Australia: Brisbane, Australia 
+01/07/2017 – 01/04/2018
+- Completed functional specifications for changes in SAP HANA, using SAP Fiori design guidelines
+- Led a small team to develop an innovation proposal, as well as guiding three small teams to develop their ideas. 
+Data related:
+- Researched innovation in AI/cognitive learning
+
+LANGUAGE SKILLS 
+Mother tongue(s): English 
+Other language(s): Portuguese (B2)
+
+DIGITAL SKILLS 
+Languages: Python, R, Apex/Java, JavaScript, Html, CSS
+Data analysis: SQL, JSON, pandas, NumPy, seaborn, matplotlib
+Other: Git; Jupyter Notebooks
